@@ -120,7 +120,7 @@ USE_TZ = True
 STATIC_URL = 'static/'
 
 GRAPHENE = {
-    "SCHEMA": "django_root.schema.schema"
+    "SCHEMA": "cookbook.schema.schema"
 }
 
 # Default primary key field type
